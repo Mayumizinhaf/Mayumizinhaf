@@ -3,13 +3,14 @@
   [![English](https://flagsapi.com/US/flat/32.png)](README.md)
   [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README_pt-BR.md)
   [![Spanish](https://flagsapi.com/ES/flat/32.png)](README_es.md)
+  [![Russian](https://flagsapi.com/RU/flat/32.png)](README_ru.md)
   
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ¡Hola! Bienvenido a mi perfil 
 
 <p>
-Tengo 19 años, trabajo como Full Developer en Develcode con Leroy Merlin como mi principal cliente. Estoy enfocado en estudiar los lenguajes más actuales para el desarrollo web con el objetivo de convertirme en un full-stack con especialidad en el back-end.
+Me chamo Mayumi, tenho 19 anos e sou desenvolvedora Full stack com especialidade em back-end. 
 </p>
 
 <details>
@@ -38,9 +39,7 @@ También trabajé con automatización, habiendo desarrollado ya un producto pate
 [![Firebase badge](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Vault badge](https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black)](https://www.hashicorp.com/products/vault)
 [![GIT badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-## 📚 Estudiando
-
 [![Tailwind CSS badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![NextJS badge](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=white)]([https://nodejs.org/en/](https://nextjs.org/))
 [![Node.js badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Python badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
