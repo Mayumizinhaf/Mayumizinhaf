@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Bem vindo ao meu perfil 
 
 <p>
-Me chamo Mayumi, tenho 19 anos e sou desenvolvedora Full stack com especialidade em back-end. 
+  Hey, my name is Mayumi, I'mj 20 years old and i'm a full staclo developer 
 </p>
 
 <details>
