@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Bem vindo ao meu perfil 
 
 <p>
-  Hey, my name is Mayumi, I'mj 20 years old and i'm a full staclo developer 
+  Hey, my name is Mayumi, I'm 20 years old and i'm a full staclo developer 
 </p>
 
 <details>
